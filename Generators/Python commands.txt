@@ -1,0 +1,1 @@
+exec(open('helloworld.py').read()) -- To exectue a Python script in the python shell

@@ -2,6 +2,7 @@
 
 from contextlib import contextmanager
 
+#decorator that adds enter and exit methods for the context manager
 @contextmanager
 def context_manager(obj):
     try:
